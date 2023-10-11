@@ -1,0 +1,14 @@
+
+
+body{
+    background: linear-gradient(aqua,rgb(192, 105, 192),rgb(254, 216, 89));
+    text-align: center;
+}
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Inter', sans-serif;
+}
+a{
+    height: 90px;
+    width: 70px;
+}
